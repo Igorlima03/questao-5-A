@@ -1,0 +1,17 @@
+body{
+	background-color: brown;
+}
+h1{
+	color:white;
+}
+p.center{
+	text-align: center;
+}
+body.cor{
+	background-image: linear-gradient(to left,red, darkblue, darkorange);
+}
+p.branco{  
+	color:white;
+}
+
+
